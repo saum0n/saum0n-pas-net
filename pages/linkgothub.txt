@@ -1,0 +1,17 @@
+
+
+
+
+
+
+Construire un site web
+
+télécharger Visual Studio Code
+configurer Homebrew : https://www.youtube.com/watch?v=p7hpi084Y_s
+télécharger Git sur mac : https://www.youtube.com/watch?v=B4qsvQ5IqWk
+/ https://git-scm.com/download/mac / $ brew install git
+lier le compter VSC avec GitHUB : 
+
+
+
+comment upload les changements depuis VSC sur GitHUB : https://www.youtube.com/watch?v=LxkXT9WD7yk
