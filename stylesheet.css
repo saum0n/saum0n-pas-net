@@ -1,5 +1,6 @@
 html {
     font-family: menlo, sans-serif;
+    padding-left: 1%;
 }
 
 ::-moz-selection { /* Code for Firefox */
